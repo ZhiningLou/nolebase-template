@@ -1,7 +1,7 @@
 /** 文本 */
-export const siteName = 'Nólëbase'
-export const siteShortName = 'Nólëbase'
-export const siteDescription = '记录回忆，知识和畅想的地方'
+export const siteName = 'Zhining\' Lou'
+export const siteShortName = 'LZN\' Blog'
+export const siteDescription = 'Zhining Lou\'s Blog'
 
 /** 文档所在目录 */
 export const include = ['笔记', '生活']
