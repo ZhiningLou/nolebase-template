@@ -22,7 +22,7 @@ export const creators: Creator[] = [
   {
     name: 'Lou Zhining',
     avatar: '',
-    username: 'nekomeowww',
+    username: 'zhininglou',
     title: '业余自行车运动员，退役信息学竞赛选手',
 
   },
