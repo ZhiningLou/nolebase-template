@@ -1,5 +1,5 @@
 /** 文本 */
-export const siteName = 'Zhining Lou\s Blog'
+export const siteName = 'Zhining Lou'
 export const siteShortName = 'LZN\' Blog'
 export const siteDescription = 'Zhining Lou\'s Blog'
 
